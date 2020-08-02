@@ -23,7 +23,7 @@ Randomly selected data for the first six months of 2017 are provided for all thr
 Data for the first 10 rides in the new_york_city.csv file
 
 <h3>Statistics Computed</h3>
-You will learn about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, code is written to provide the following information:
+Learning about bike share use in Chicago, New York City, and Washington by computing a variety of descriptive statistics. In this project, code is written to provide the following information:
 
 <h5>#1 Popular times of travel (i.e., occurs most often in the start time)</h5>
 <li>Most common month</li>
